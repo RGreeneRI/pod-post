@@ -70,7 +70,7 @@ function mp3_admin() {
             <input type="submit" class="button-primary" name="kill-duds" value="<?php _e('Remove Files (< 0.5MB)','pod-post') ?>" />
 		  </td>
 		  <td>
-            <input type="submit" class="button-primary" name="kill-all" value="<?php _e('Remove ALL Files (Do Not Click)','pod-post') ?>" />
+            <input type="submit" class="button-primary" name="kill-all" value="<?php _e('Remove ALL Files (Warning!)','pod-post') ?>" />
 		  </td>
         </tr>
         </tbody>
