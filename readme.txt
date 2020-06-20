@@ -1,3 +1,5 @@
+Pod Post - A Wordpress Plugin
+
 A modified version of Paul SHeldrake's MP3 to Post Wordpress Plugin.  His original readme below.
 ------------------------------------------------------------------------------------------------
 

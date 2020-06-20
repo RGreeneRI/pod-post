@@ -1,4 +1,4 @@
-# mp3-to-post
+# Pod Post
 A modified version of [Paul Sheldrake's](http://www.fractured-state.com/2011/09/mp3-to-post-plugin/) mp3-to-post [plugin](https://wordpress.org/plugins/mp3-to-post/) to get it to work with Wordpress 5.4.1, and PHP 7.1.24.  This plugin creates wordpress posts from MP3 ID3 information and attaches the MP3 file to the post.
 
 # Changes
