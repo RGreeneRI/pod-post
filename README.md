@@ -2,12 +2,12 @@
 
 A modified version of [Paul Sheldrake's](http://www.fractured-state.com/2011/09/mp3-to-post-plugin/) mp3-to-post [plugin](https://wordpress.org/plugins/mp3-to-post/) to get it to work with Wordpress 5.4.1, and PHP 7.1.24.  This plugin creates  posts from MP3 ID3 information and attaches the MP3 file to the post.
 
-Contributors: Rich Greene
-Tags: mp3, podcasting, id3, podcast, podcaster, audio, music, spokenword
-Requires at least: Unknown
-Tested up to: 5.4.2
-Stable tag: 0.9
-License: GPLv3
+- Contributors: Rich Greene
+- Tags: mp3, podcasting, id3, podcast, podcaster, audio, music, spokenword
+- Requires at least: Unknown
+- Tested up to: 5.4.2
+- Stable tag: 0.9
+- License: GPLv3
 
 
 # Description
