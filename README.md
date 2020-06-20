@@ -16,9 +16,9 @@ This plugin creates a folder that you can STFP or SSH MP3 files in to and then
 scans the folder to create the posts from the MP3 ID3 information.  
 
 The ID3 tags are mapped to the posts data as follows:
-ID3 Title -> Post Title
-ID3 Comment -> Post Content
-ID3 Genre -> Post Category
+- ID3 Title -> Post Title
+- ID3 Comment -> Post Content
+- ID3 Genre -> Post Category
 
 
 
