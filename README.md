@@ -26,7 +26,7 @@ ID3 Genre -> Post Category
 
 1. Upload the plugin directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Upload mp3 files to /wp-content/uploads/pod-post
+3. Upload mp3 files to `/wp-content/uploads/pod-post`
 4. Go to the plugin page(on the admin side bar) and start creating posts.
 
 
@@ -57,6 +57,6 @@ I'm doing this as a hobby, and learning PHP through trial and error.  If you're 
 
 
 # Help
-I changed the old like_escape to wpdb::esc_like, but I'm getting the following error (while in debuggung mode):
+I changed the old `like_escape` to `wpdb::esc_like`, but I'm getting the following error (while in debuggung mode):
 
-Deprecated:  "Non-static method wpdb::esc_like() should not be called statically in .../wp-content/plugins/pod-post/pod-post.php on line 147".  It still works anyways though...
+`Deprecated:  Non-static method wpdb::esc_like() should not be called statically in .../wp-content/plugins/pod-post/pod-post.php on line 147`.  It still works anyways though...
