@@ -27,7 +27,7 @@ update_option('pod-post', serialize($PodPostOptions));
 
 /* create the menu item and link to to an admin function */
 function mp3_admin_actions() {
-  add_menu_page(__('Pod Post','pod-post'), __('Pod Post','pod-post'), 'administrator', "pod-post", "mp3_admin");
+  add_menu_page(__('Pod Post','pod-post'), __('Pod Post','pod-post'), 'administrator', "pod-post", "mp3_admin",'dashicons-media-audio');
 }
 
 /* add the menu item */
